@@ -1,7 +1,7 @@
 import math
 from datetime import datetime
 
-# Tire price lookup table (example data)
+# Tire price lookup table 
 TIRE_PRICES = {
     (185, 50, 14): 75.99,
     (205, 60, 15): 89.99,
